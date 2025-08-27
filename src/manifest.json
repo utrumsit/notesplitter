@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.utrumsit.notesplitter",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Note Splitter",
+	"description": "This plugin splits notes into multiple notes using a simple markup extension. It has the ability to add tags, date, and put the notes in specific folders. Envisioned to aid in the use of handwritten notes. ",
+	"author": "karl1",
+	"homepage_url": "github.com/utrumsit/notesplitter",
+	"repository_url": "github.com/utrumsit/notesplitter",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
