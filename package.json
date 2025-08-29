@@ -1,16 +1,21 @@
-{
-  "name": "joplin-plugin-note-splitter",
+{"name": "joplin-plugin-note-splitter",
   "version": "1.0.0",
+  "description": "A plugin to split a single markdown note into multiple notes.",
   "scripts": {
     "dist": "webpack --env joplin-plugin-config=buildMain && webpack --env joplin-plugin-config=buildExtraScripts && webpack --env joplin-plugin-config=createArchive",
     "prepare": "npm run dist",
     "updateVersion": "webpack --env joplin-plugin-config=updateVersion",
     "update": "npm install -g generator-joplin && yo joplin --node-package-manager npm --update --force"
   },
-  "license": "MIT",
   "keywords": [
     "joplin-plugin"
   ],
+  "author": "yourname",
+  "homepage": "https://github.com/yourname/notesplitter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/notesplitter"
+  },
   "files": [
     "publish"
   ],
@@ -27,3 +32,4 @@
     "webpack-cli": "^4.10.0"
   }
 }
+
