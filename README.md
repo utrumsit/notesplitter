@@ -24,7 +24,7 @@ A Joplin plugin that splits a single note into multiple notes based on `---` sep
    - Click `Manage Plugins` and select `Install from file`.
    - Choose the downloaded `.jpl` file.
 3. **Enable the Plugin**:
-   - The plugin will appear in the Joplin command menu as `Split Notes from Current File`.
+   - The plugin will appear in the Joplin command palette as `Split Notes from Current File`.
 
 ## Usage
 1. Create a note in Joplin with content separated by `---` markers.
