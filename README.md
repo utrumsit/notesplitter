@@ -1,9 +1,3 @@
-# Joplin Plugin
-
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
-
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
-
 # Joplin Note Splitter Plugin
 
 A Joplin plugin that splits a single note into multiple notes based on `---` separators, with support for assigning tags and moving notes to specific notebooks.
